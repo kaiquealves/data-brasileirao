@@ -1,0 +1,381 @@
+,id,chave,rodada,equipe_mandante,equipe_visitante,is_finalizado,jogo_ficticio,hora_realizacao,jogo_id,data_realizacao,escalacao_equipe_mandante_id,escalacao_equipe_visitante_id,placar_oficial_mandante,placar_oficial_visitante,placar_penaltis_mandante,placar_penaltis_visitante,empate,suspenso,cancelado,wo,decisivo,publico_total,renda,renda_moeda,observacao,publico_pagante,ordem_na_chave,fase,sede,vencedor_jogo
+0,8424,,1,Fluminense,Santos,True,False,16:30:00,287509,2022-04-09,477572,477573,0,0,,,True,False,False,False,False,22855,713782.0,REAL,,20787,,101,28,
+1,8425,,1,Atletico-GO,Flamengo,True,False,19:00:00,287515,2022-04-09,477581,477582,1,1,,,True,False,False,False,False,10496,974295.0,REAL,,9904,,101,113,
+2,8426,,1,Palmeiras,Ceara,True,False,21:00:00,287511,2022-04-09,477602,477603,2,3,,,False,False,False,False,False,,1585113.0,REAL,,27100,,101,11,31
+3,8427,,1,Coritiba,Goias,True,False,11:00:00,287517,2022-04-10,477612,477613,3,0,,,False,False,False,False,False,18600,262100.0,REAL,,17788,,101,111,40
+4,8428,,1,CAM,Internacional,True,False,16:00:00,287508,2022-04-10,477570,477571,2,0,,,False,False,False,False,False,37531,1233070.0,REAL,,30897,,101,52,15
+5,8429,,1,Botafogo,Corinthians,True,False,16:00:00,287512,2022-04-10,477604,477605,1,3,,,False,False,False,False,False,36898,1332850.0,REAL,,34344,,101,31,2
+6,8430,,1,Sao Paulo,Athletico-PR,True,False,19:00:00,287510,2022-04-10,477576,477577,4,0,,,False,False,False,False,False,,687594.0,REAL,,20606,,101,16,4
+7,8431,,1,Fortaleza,Cuiaba,True,False,18:00:00,287514,2022-04-10,477608,477609,0,1,,,False,False,False,False,False,,101597.0,REAL,,18279,,101,99,357
+8,8432,,1,Avai,America-MG,True,False,19:00:00,287516,2022-04-10,477610,477611,1,0,,,False,False,False,False,False,5081,111069.0,REAL,,4709,,101,100,36
+9,8433,,1,Juventude,Bragantino,True,False,20:00:00,287513,2022-04-11,477606,477607,2,2,,,True,False,False,False,False,,124960.0,REAL,,3300,,101,174,
+10,8434,,2,Goias,Palmeiras,True,False,16:30:00,287535,2022-04-16,478302,478303,1,1,,,True,False,False,False,False,12864,353385.0,REAL,,11442,,101,177,
+11,8435,,2,America-MG,Juventude,True,False,19:00:00,287528,2022-04-16,478304,478305,4,1,,,False,False,False,False,False,1559,24180.0,REAL,,1022,,101,39,38
+12,8436,,2,Corinthians,Avai,True,False,19:00:00,287531,2022-04-16,478306,478307,3,0,,,False,False,False,False,False,,2058127.0,REAL,,30335,,101,6,2
+13,8437,,2,Cuiaba,Fluminense,True,False,21:00:00,287536,2022-04-16,478308,478309,0,1,,,False,False,False,False,False,10791,327200.0,REAL,,9710,,101,116,20
+14,8438,,2,Santos,Coritiba,True,False,11:00:00,287532,2022-04-17,478310,478311,2,1,,,False,False,False,False,False,,433040.0,REAL,,13051,,101,2,3
+15,8439,,2,Flamengo,Sao Paulo,True,False,16:00:00,287529,2022-04-17,478312,478313,3,1,,,False,False,False,False,False,54686,2204064.0,REAL,,51094,,101,28,17
+16,8440,,2,Bragantino,Atletico-GO,True,False,18:00:00,287530,2022-04-17,478314,478315,4,0,,,False,False,False,False,False,,32285.0,REAL,,2351,,101,4,11
+17,8441,,2,Internacional,Fortaleza,True,False,18:00:00,287533,2022-04-17,478316,478317,2,1,,,False,False,False,False,False,,1387127.0,REAL,,31783,,101,53,12
+18,8442,,2,Athletico-PR,CAM,True,False,18:00:00,287537,2022-04-17,478318,478319,0,1,,,False,False,False,False,False,,362840.0,REAL,,17305,,101,49,15
+19,8443,,2,Ceara,Botafogo,True,False,19:00:00,287534,2022-04-17,478320,478321,1,3,,,False,False,False,False,False,,430765.0,REAL,,33734,,101,99,18
+20,8444,,4,Flamengo,Palmeiras,True,False,19:30:00,287579,2022-04-20,478543,478544,0,0,,,True,False,False,False,False,69997,2626305.0,REAL,,64816,,101,28,
+21,8445,,3,Bragantino,Sao Paulo,True,False,16:30:00,287561,2022-04-23,478467,478468,1,1,,,True,False,False,False,False,,269955.0,REAL,,8040,,101,4,
+22,8446,,3,Athletico-PR,Flamengo,True,False,16:30:00,287568,2022-04-23,478469,478470,1,0,,,False,False,False,False,False,,1079455.0,REAL,,22659,,101,49,44
+23,8447,,3,Fluminense,Internacional,True,False,19:00:00,287560,2022-04-23,478471,478472,0,1,,,False,False,False,False,False,16176,472727.0,REAL,,14322,,101,28,12
+24,8448,,3,Palmeiras,Corinthians,True,False,19:00:00,287562,2022-04-23,478473,478474,3,0,,,False,False,False,False,False,,908428.0,REAL,,23973,,101,10,5
+25,8449,,3,Fortaleza,Ceara,True,False,20:30:00,287565,2022-06-01,478483,478484,0,1,,,False,False,False,False,False,,778710.0,REAL,,37372,,101,99,31
+26,8450,,3,CAM,Coritiba,True,False,21:00:00,287559,2022-04-23,478475,478476,2,2,,,True,False,False,False,False,19974,451030.0,REAL,,16754,,101,39,
+27,8451,,3,Avai,Goias,True,False,20:00:00,287567,2022-04-25,478477,478478,3,2,,,False,False,False,False,False,5883,129305.0,REAL,,5489,,101,100,36
+28,8452,,3,Santos,America-MG,True,False,16:00:00,287563,2022-04-24,478479,478458,3,0,,,False,False,False,False,False,,327972.0,REAL,,10374,,101,2,3
+29,8453,,3,Juventude,Cuiaba,True,False,18:00:00,287564,2022-04-24,478460,478480,0,1,,,False,False,False,False,False,,137820.0,REAL,,3920,,101,174,357
+30,8454,,3,Atletico-GO,Botafogo,True,False,18:30:00,287566,2022-04-24,478481,478482,1,1,,,True,False,False,False,False,4427,187610.0,REAL,,3928,,101,113,
+31,8455,,4,America-MG,Athletico-PR,True,False,16:30:00,287578,2022-04-30,478562,478563,1,0,,,False,False,False,False,False,2433,33765.0,REAL,,1201,,101,39,38
+32,8456,,4,Ceara,Bragantino,True,False,16:30:00,287584,2022-04-30,478564,478565,0,1,,,False,False,False,False,False,,225633.0,REAL,,23211,,101,99,11
+33,8457,,4,Cuiaba,Atletico-GO,True,False,19:00:00,287586,2022-04-30,478568,478569,1,1,,,True,False,False,False,False,4517,88550.0,REAL,,3796,,101,116,
+34,8458,,4,Goias,CAM,True,False,18:30:00,287585,2022-04-30,478566,478567,2,2,,,True,False,False,False,False,10165,263970.0,REAL,,8329,,101,177,
+35,8459,,4,Botafogo,Juventude,True,False,11:00:00,287582,2022-05-01,478570,478571,1,1,,,True,False,False,False,False,34734,1201275.0,REAL,,31512,,101,31,
+36,8460,,4,Corinthians,Fortaleza,True,False,16:00:00,287581,2022-05-01,478572,478573,1,0,,,False,False,False,False,False,,2510888.0,REAL,,36742,,101,6,2
+37,8461,,4,Coritiba,Fluminense,True,False,16:00:00,287587,2022-05-01,478574,478575,3,2,,,False,False,False,False,False,,424805.0,REAL,,23465,,101,111,40
+38,8462,,4,Internacional,Avai,True,False,19:00:00,287583,2022-05-01,478576,478577,0,0,,,True,False,False,False,False,,963264.0,REAL,,20808,,101,53,
+39,8463,,4,Sao Paulo,Santos,True,False,20:00:00,287580,2022-05-02,478578,478579,2,1,,,False,False,False,False,False,,1581896.0,REAL,,36746,,101,16,4
+40,8464,,5,CAM,America-MG,True,False,16:30:00,287628,2022-05-07,478718,478717,1,2,,,False,False,False,False,False,14629,437697.0,REAL,,11714,,101,39,38
+41,8465,,5,Flamengo,Botafogo,True,False,11:00:00,287629,2022-05-08,478721,478722,0,1,,,False,False,False,False,False,,4800370.0,REAL,,54981,,101,27,18
+42,8466,,5,Athletico-PR,Ceara,True,False,20:30:00,287637,2022-05-07,478719,478720,1,0,,,False,False,False,False,False,,210630.0,REAL,,12325,,101,49,44
+43,8467,,5,Palmeiras,Fluminense,True,False,16:00:00,287631,2022-05-08,478723,478724,1,1,,,True,False,False,False,False,,1748880.0,REAL,,28776,,101,11,
+44,8468,,5,Atletico-GO,Goias,True,False,16:00:00,287635,2022-05-08,478726,478725,0,1,,,False,False,False,False,False,5431,65675.0,REAL,,4683,,101,113,32
+45,8469,,5,Bragantino,Corinthians,True,False,18:00:00,287630,2022-05-08,478727,478728,0,1,,,False,False,False,False,False,,342805.0,REAL,,9993,,101,4,2
+46,8470,,5,Santos,Cuiaba,True,False,18:00:00,287632,2022-05-08,478729,478730,4,1,,,False,False,False,False,False,,221095.0,REAL,,7256,,101,2,3
+47,8471,,5,Juventude,Internacional,True,False,19:00:00,287633,2022-05-08,478731,478732,1,1,,,True,False,False,False,False,7341,272305.0,REAL,,6752,,101,174,
+48,8472,,5,Fortaleza,Sao Paulo,True,False,19:00:00,287634,2022-05-08,478733,478734,1,1,,,True,False,False,False,False,,365901.0,REAL,,25518,,101,99,
+49,8473,,5,Avai,Coritiba,True,False,20:00:00,287636,2022-05-09,478736,478737,2,1,,,False,False,False,False,False,8548,257997.0,REAL,,7907,,101,100,36
+50,8474,,6,CAM,Atletico-GO,True,False,19:00:00,287678,2022-05-14,478868,478869,2,0,,,False,False,False,False,False,20749,572368.0,REAL,,17010,,101,39,15
+51,8475,,6,Fluminense,Athletico-PR,True,False,21:00:00,287679,2022-05-14,478872,478873,2,1,,,False,False,False,False,False,4722,98220.0,REAL,,4009,,101,25,20
+52,8476,,6,Sao Paulo,Cuiaba,True,False,16:00:00,287680,2022-05-15,478874,478875,2,1,,,False,False,False,False,False,,1134642.0,REAL,,27511,,101,16,4
+53,8477,,6,Palmeiras,Bragantino,True,False,16:30:00,287681,2022-05-14,478864,478865,2,0,,,False,False,False,False,False,,2267246.0,REAL,,36123,,101,11,5
+54,8478,,6,Botafogo,Fortaleza,True,False,18:00:00,287682,2022-05-15,478878,478879,3,1,,,False,False,False,False,False,23616,577386.0,REAL,,21782,,101,31,18
+55,8479,,6,Internacional,Corinthians,True,False,19:00:00,287683,2022-05-14,478870,478871,2,2,,,True,False,False,False,False,,953295.0,REAL,,18482,,101,53,
+56,8480,,6,Ceara,Flamengo,True,False,16:30:00,287684,2022-05-14,478867,478866,2,2,,,True,False,False,False,False,52139,2446271.0,REAL,,52003,,101,99,
+57,8481,,6,Goias,Santos,True,False,19:00:00,287685,2022-05-15,478882,478883,1,0,,,False,False,False,False,False,11070,307075.0,REAL,,9538,,101,177,32
+58,8482,,6,Avai,Juventude,True,False,18:00:00,287686,2022-05-15,478880,478881,1,2,,,False,False,False,False,False,9355,226093.0,REAL,,8449,,101,100,492
+59,8483,,6,Coritiba,America-MG,True,False,17:30:00,287687,2022-05-15,478876,478877,1,0,,,False,False,False,False,False,,255450.0,REAL,,19040,,101,111,40
+60,8484,,7,America-MG,Botafogo,True,False,21:00:00,287698,2022-05-21,478961,478963,1,1,,,True,False,False,False,False,4236,255525.0,REAL,,3233,,101,39,
+61,8485,,7,Flamengo,Goias,True,False,16:30:00,287699,2022-05-21,478950,478951,1,0,,,False,False,False,False,False,51692,1975192.0,REAL,,47680,,101,28,17
+62,8486,,7,Bragantino,CAM,True,False,20:30:00,287700,2022-05-11,478936,478937,1,1,,,True,False,False,False,False,,113165.0,REAL,,5222,,101,4,
+63,8487,,7,Corinthians,Sao Paulo,True,False,16:00:00,287701,2022-05-22,478967,478966,1,1,,,True,False,False,False,False,,3688132.0,REAL,,44672,,101,6,
+64,8488,,7,Santos,Ceara,True,False,18:30:00,287702,2022-05-21,478956,478957,0,0,,,True,False,False,False,False,,1038325.0,REAL,,25797,,101,10,
+65,8489,,7,Juventude,Palmeiras,True,False,19:00:00,287703,2022-05-21,478958,478959,0,3,,,False,False,False,False,False,5513,199290.0,REAL,,4973,,101,174,5
+66,8490,,7,Fortaleza,Fluminense,True,False,16:00:00,287704,2022-05-22,478968,478969,0,1,,,False,False,False,False,False,,424378.0,REAL,,37507,,101,99,20
+67,8491,,7,Atletico-GO,Coritiba,True,False,16:30:00,287705,2022-05-21,478952,478953,2,0,,,False,False,False,False,False,4676,46590.0,REAL,,3650,,101,113,47
+68,8492,,7,Cuiaba,Internacional,True,False,21:00:00,287706,2022-05-21,478964,478965,1,1,,,True,False,False,False,False,7968,311865.0,REAL,,7334,,101,116,
+69,8493,,7,Athletico-PR,Avai,True,False,19:00:00,287707,2022-05-22,478970,478971,2,1,,,False,False,False,False,False,,280155.0,REAL,,15949,,101,49,44
+70,8494,,8,CAM,Avai,True,False,19:00:00,287728,2022-05-29,479112,479113,2,1,,,False,False,False,False,False,31551,808382.0,REAL,,25637,,101,52,15
+71,8495,,8,Fluminense,Flamengo,True,False,18:00:00,287729,2022-05-29,479106,479107,1,2,,,False,False,False,False,False,57919,2137932.0,REAL,,53113,,101,28,17
+72,8496,,8,Sao Paulo,Ceara,True,False,19:00:00,287730,2022-05-28,479098,479099,2,2,,,True,False,False,False,False,,1413274.0,REAL,,32977,,101,16,
+73,8497,,8,Corinthians,America-MG,True,False,18:00:00,287731,2022-05-29,479108,479109,1,1,,,True,False,False,False,False,,2164285.0,REAL,,34922,,101,6,
+74,8498,,8,Santos,Palmeiras,True,False,16:00:00,287732,2022-05-29,479102,479103,0,1,,,False,False,False,False,False,,416655.0,REAL,,14220,,101,2,5
+75,8499,,8,Internacional,Atletico-GO,True,False,20:00:00,287733,2022-05-30,479114,479115,1,1,,,True,False,False,False,False,,470888.0,REAL,,11050,,101,53,
+76,8500,,8,Fortaleza,Juventude,True,False,20:30:00,287734,2022-05-28,479100,479101,1,1,,,True,False,False,False,False,,175115.0,REAL,,22466,,101,99,
+77,8501,,8,Goias,Bragantino,True,False,16:30:00,287735,2022-05-28,479096,479097,1,1,,,True,False,False,False,False,6283,95635.0,REAL,,4910,,101,177,
+78,8502,,8,Cuiaba,Athletico-PR,True,False,18:00:00,287736,2022-05-29,479110,479111,0,1,,,False,False,False,False,False,4539,88580.0,REAL,,3827,,101,116,44
+79,8503,,8,Coritiba,Botafogo,True,False,16:00:00,287737,2022-05-29,479104,479105,1,0,,,False,False,False,False,False,,465065.0,REAL,,20302,,101,111,40
+80,8504,,9,America-MG,Cuiaba,True,False,16:30:00,287748,2022-06-04,479217,479218,2,1,,,False,False,False,False,False,2720,60175.0,REAL,,1196,,101,39,38
+81,8505,,9,Flamengo,Fortaleza,True,False,16:00:00,287749,2022-06-05,479219,479220,1,2,,,False,False,False,False,False,63975,2484322.0,REAL,,59294,,101,28,69
+82,8506,,9,Bragantino,Internacional,True,False,19:00:00,287750,2022-06-05,479228,479229,0,2,,,False,False,False,False,False,,53685.0,REAL,,3062,,101,4,12
+83,8507,,9,Palmeiras,CAM,True,False,16:00:00,287751,2022-06-05,479224,479226,0,0,,,True,False,False,False,False,,2701274.0,REAL,,40235,,101,11,
+84,8508,,9,Botafogo,Goias,True,False,20:00:00,287752,2022-06-06,479233,479234,1,2,,,False,False,False,False,False,30954,678070.0,REAL,,29133,,101,31,32
+85,8509,,9,Juventude,Fluminense,True,False,11:00:00,287753,2022-06-05,479215,479216,1,0,,,False,False,False,False,False,2573,78665.0,REAL,,2271,,101,174,492
+86,8510,,9,Ceara,Coritiba,True,False,19:00:00,287754,2022-06-04,479221,479222,1,1,,,True,False,False,False,False,27602,279859.0,REAL,,27509,,101,99,
+87,8511,,9,Atletico-GO,Corinthians,True,False,20:30:00,287755,2022-06-04,479231,479232,0,1,,,False,False,False,False,False,12089,503005.0,REAL,,10887,,101,113,2
+88,8512,,9,Avai,Sao Paulo,True,False,19:00:00,287756,2022-06-04,479223,479225,1,1,,,True,False,False,False,False,11962,620748.0,REAL,,11202,,101,100,
+89,8513,,9,Athletico-PR,Santos,True,False,19:00:00,287757,2022-06-04,479227,479230,2,2,,,True,False,False,False,False,20466,633970.0,REAL,,19323,,101,49,
+90,8514,,10,America-MG,Ceara,True,False,19:00:00,287768,2022-06-08,479288,479289,0,2,,,False,False,False,False,False,2132,57365.0,REAL,,1134,,101,39,31
+91,8515,,10,Fluminense,CAM,True,False,21:30:00,287769,2022-06-08,479296,479297,5,3,,,False,False,False,False,False,16143,397080.0,REAL,,14910,,101,28,20
+92,8516,,10,Bragantino,Flamengo,True,False,20:30:00,287770,2022-06-08,479292,479293,1,0,,,False,False,False,False,False,,301700.0,REAL,,8627,,101,4,11
+93,8517,,10,Palmeiras,Botafogo,True,False,19:00:00,287771,2022-06-09,479300,479301,4,0,,,False,False,False,False,False,,2094253.0,REAL,,33431,,101,11,5
+94,8518,,10,Santos,Internacional,True,False,21:30:00,287772,2022-06-08,479298,479299,1,1,,,True,False,False,False,False,,260880.0,REAL,,8845,,101,2,
+95,8519,,10,Juventude,Athletico-PR,True,False,19:00:00,287773,2022-06-08,479290,479291,1,3,,,False,False,False,False,False,3590,113680.0,REAL,,3339,,101,174,44
+96,8520,,10,Fortaleza,Goias,True,False,20:00:00,287774,2022-06-09,479302,479303,1,1,,,True,False,False,False,False,,230869.0,REAL,,30017,,101,99,
+97,8521,,10,Atletico-GO,Avai,True,False,20:30:00,287775,2022-06-08,479294,479295,2,1,,,False,False,False,False,False,5251,46580.0,REAL,,4343,,101,113,47
+98,8522,,10,Cuiaba,Corinthians,True,False,21:30:00,287776,2022-06-07,479424,479423,1,0,,,False,False,False,False,False,22129,1957010.0,REAL,,20591,,101,116,357
+99,8523,,10,Coritiba,Sao Paulo,True,False,20:00:00,287777,2022-06-09,479304,479305,1,1,,,True,False,False,False,False,,633815.0,REAL,,21521,,101,111,
+100,8524,,11,CAM,Santos,True,False,19:00:00,287798,2022-06-11,479389,479392,1,1,,,True,False,False,False,False,26501,893582.0,REAL,,20818,,101,52,
+101,8525,,11,Fluminense,Atletico-GO,True,False,19:00:00,287799,2022-06-11,479396,479398,0,2,,,False,False,False,False,False,27859,695430.0,REAL,,25745,,101,28,47
+102,8526,,11,Sao Paulo,America-MG,True,False,16:00:00,287800,2022-06-12,479377,479378,1,0,,,False,False,False,False,False,,1098878.0,REAL,,26847,,101,16,4
+103,8527,,11,Corinthians,Juventude,True,False,16:30:00,287801,2022-06-11,479379,479380,2,0,,,False,False,False,False,False,,2197465.0,REAL,,34617,,101,6,2
+104,8528,,11,Botafogo,Avai,True,False,19:00:00,287802,2022-06-13,479418,479419,0,1,,,False,False,False,False,False,12627,220135.0,REAL,,11525,,101,31,36
+105,8529,,11,Internacional,Flamengo,True,False,21:00:00,287803,2022-06-11,479409,479410,3,1,,,False,False,False,False,False,,1172545.0,REAL,,22392,,101,53,12
+106,8530,,11,Fortaleza,Athletico-PR,True,False,19:00:00,287804,2022-06-12,479416,479417,0,0,,,True,False,False,False,False,,118976.0,REAL,,18167,,101,99,
+107,8531,,11,Goias,Ceara,True,False,16:00:00,287805,2022-06-12,479411,479412,1,1,,,True,False,False,False,False,9011,190025.0,REAL,,7848,,101,177,
+108,8532,,11,Cuiaba,Bragantino,True,False,19:00:00,287806,2022-06-11,479403,479404,1,1,,,True,False,False,False,False,4476,92395.0,REAL,,3801,,101,116,
+109,8533,,11,Coritiba,Palmeiras,True,False,18:00:00,287807,2022-06-12,479415,479414,0,2,,,False,False,False,False,False,,1060085.0,REAL,,27356,,101,111,5
+110,8534,,12,America-MG,Fluminense,True,False,21:30:00,287808,2022-06-15,479460,479461,0,0,,,True,False,False,False,False,2599,68346.0,REAL,,1661,,101,39,
+111,8535,,12,Flamengo,Cuiaba,True,False,20:30:00,287809,2022-06-15,479455,479456,2,0,,,False,False,False,False,False,43930,1431946.0,REAL,,40916,,101,28,17
+112,8536,,12,Bragantino,Coritiba,True,False,19:00:00,287810,2022-06-15,479451,479452,4,2,,,False,False,False,False,False,,31215.0,REAL,,2352,,101,4,11
+113,8537,,12,Palmeiras,Atletico-GO,True,False,18:00:00,287811,2022-06-16,479457,479499,4,2,,,False,False,False,False,False,,2130127.0,REAL,,38888,,101,11,5
+114,8538,,12,Botafogo,Sao Paulo,True,False,16:00:00,287812,2022-06-16,479464,479465,1,0,,,False,False,False,False,False,18677,453785.0,REAL,,17135,,101,31,18
+115,8539,,12,Juventude,Santos,True,False,21:30:00,287813,2022-06-14,479599,479600,1,2,,,False,False,False,False,False,3025,90640.0,REAL,,2628,,101,174,3
+116,8540,,12,Ceara,CAM,True,False,19:00:00,287814,2022-06-15,479453,479454,0,0,,,True,False,False,False,False,26774,244401.0,REAL,,26766,,101,99,
+117,8541,,12,Goias,Internacional,True,False,20:30:00,287815,2022-06-15,479458,479459,1,2,,,False,False,False,False,False,8892,233520.0,REAL,,7689,,101,177,12
+118,8542,,12,Avai,Fortaleza,True,False,19:00:00,287816,2022-06-16,479466,479467,3,2,,,False,False,False,False,False,8937,195350.0,REAL,,8155,,101,100,36
+119,8543,,12,Athletico-PR,Corinthians,True,False,21:30:00,287817,2022-06-15,479462,479463,1,1,,,True,False,False,False,False,,1116710.0,REAL,,25965,,101,49,
+120,8544,,13,CAM,Flamengo,True,False,16:00:00,287658,2022-06-19,479566,479567,2,0,,,False,False,False,False,False,55373,2112485.0,REAL,,48310,,101,52,15
+121,8545,,13,Fluminense,Avai,True,False,19:00:00,287659,2022-06-19,479591,479592,2,0,,,False,False,False,False,False,15530,396462.0,REAL,,14207,,101,28,20
+122,8546,,13,Sao Paulo,Palmeiras,True,False,20:00:00,287660,2022-06-20,479594,479596,1,2,,,False,False,False,False,False,,1314153.0,REAL,,31055,,101,16,5
+123,8547,,13,Corinthians,Goias,True,False,16:00:00,287661,2022-06-19,479570,479571,1,0,,,False,False,False,False,False,,2188138.0,REAL,,35900,,101,6,2
+124,8548,,13,Santos,Bragantino,True,False,21:00:00,287662,2022-06-18,479564,479565,2,2,,,True,False,False,False,False,,361889.0,REAL,,10924,,101,2,
+125,8549,,13,Internacional,Botafogo,True,False,18:00:00,287663,2022-06-19,479576,479577,2,3,,,False,False,False,False,False,,1218667.0,REAL,,26219,,101,53,18
+126,8550,,13,Fortaleza,America-MG,True,False,18:00:00,287664,2022-06-19,479580,479581,1,0,,,False,False,False,False,False,,124119.0,REAL,,17709,,101,99,69
+127,8551,,13,Atletico-GO,Juventude,True,False,18:00:00,287665,2022-06-19,479588,479589,3,1,,,False,False,False,False,False,4524,35425.0,REAL,,3533,,101,113,47
+128,8552,,13,Cuiaba,Ceara,True,False,19:00:00,287666,2022-06-18,479562,479563,0,0,,,True,False,False,False,False,7512,155405.0,REAL,,6526,,101,116,
+129,8553,,13,Coritiba,Athletico-PR,True,False,16:00:00,287667,2022-06-19,479572,479573,0,1,,,False,False,False,False,False,,380615.0,REAL,,22609,,101,111,44
+130,8554,,14,CAM,Fortaleza,True,False,21:00:00,287688,2022-06-25,479617,479618,3,2,,,False,False,False,False,False,30003,866542.0,REAL,,24416,,101,52,15
+131,8555,,14,Flamengo,America-MG,True,False,19:00:00,287689,2022-06-25,479613,479614,3,0,,,False,False,False,False,False,42931,1437355.0,REAL,,40050,,101,28,17
+132,8556,,14,Sao Paulo,Juventude,True,False,18:00:00,287690,2022-06-26,479625,479626,0,0,,,True,False,False,False,False,,780806.0,REAL,,20466,,101,16,
+133,8557,,14,Corinthians,Santos,True,False,19:00:00,287691,2022-06-25,479615,479616,0,0,,,True,False,False,False,False,,2443239.0,REAL,,40842,,101,6,
+134,8558,,14,Botafogo,Fluminense,True,False,16:00:00,287692,2022-06-26,479620,479622,0,1,,,False,False,False,False,False,29791,724660.0,REAL,,27870,,101,31,20
+135,8559,,14,Internacional,Coritiba,True,False,21:30:00,287693,2022-06-24,479712,479720,3,0,,,False,False,False,False,False,,561464.0,REAL,,13454,,101,53,12
+136,8560,,14,Ceara,Atletico-GO,True,False,18:00:00,287694,2022-06-26,479627,479628,1,1,,,True,False,False,False,False,,134651.0,REAL,,21337,,101,99,
+137,8561,,14,Goias,Cuiaba,True,False,18:00:00,287695,2022-06-26,479629,479630,1,0,,,False,False,False,False,False,8871,124240.0,REAL,,7360,,101,177,32
+138,8562,,14,Avai,Palmeiras,True,False,16:00:00,287696,2022-06-26,479623,479624,2,2,,,True,False,False,False,False,15233,819619.0,REAL,,13539,,101,100,
+139,8563,,14,Athletico-PR,Bragantino,True,False,16:30:00,287697,2022-06-25,479611,479612,4,2,,,False,False,False,False,False,,293470.0,REAL,,16327,,101,49,44
+140,8564,,15,America-MG,Goias,True,False,18:00:00,287718,2022-07-03,479705,479706,1,0,,,False,False,False,False,False,2339,45479.0,REAL,,1476,,101,39,38
+141,8565,,15,Fluminense,Corinthians,True,False,16:30:00,287719,2022-07-02,479693,479694,4,0,,,False,False,False,False,False,44782,1293817.0,REAL,,41911,,101,28,20
+142,8566,,15,Bragantino,Botafogo,True,False,20:00:00,287720,2022-07-04,479716,479717,0,1,,,False,False,False,False,False,,87950.0,REAL,,4509,,101,4,18
+143,8567,,15,Palmeiras,Athletico-PR,True,False,21:00:00,287721,2022-07-02,479707,479708,0,2,,,False,False,False,False,False,,2320331.0,REAL,,39192,,101,11,44
+144,8568,,15,Santos,Flamengo,True,False,19:00:00,287722,2022-07-02,479697,479698,1,2,,,False,False,False,False,False,,402345.0,REAL,,12464,,101,2,17
+145,8569,,15,Juventude,CAM,True,False,16:30:00,287723,2022-07-02,479695,479696,1,2,,,False,False,False,False,False,6565,199920.0,REAL,,5828,,101,174,15
+146,8570,,15,Ceara,Internacional,True,False,19:00:00,287724,2022-07-02,479699,479700,1,1,,,True,False,False,False,False,23283,180206.0,REAL,,23249,,101,99,
+147,8571,,15,Atletico-GO,Sao Paulo,True,False,16:00:00,287725,2022-07-03,479703,479704,1,2,,,False,False,False,False,False,12089,577200.0,REAL,,10875,,101,113,4
+148,8572,,15,Avai,Cuiaba,True,False,11:00:00,287726,2022-07-03,479701,479702,1,2,,,False,False,False,False,False,13103,287979.0,REAL,,11646,,101,100,357
+149,8573,,15,Coritiba,Fortaleza,True,False,18:00:00,287727,2022-07-03,479711,479713,2,1,,,False,False,False,False,False,20156,258835.0,REAL,,18655,,101,111,40
+150,8574,,16,CAM,Sao Paulo,True,False,18:00:00,287758,2022-07-10,479793,479795,0,0,,,True,False,False,False,False,52356,1957819.0,REAL,,44211,,101,52,
+151,8575,,16,Fluminense,Ceara,True,False,19:00:00,287759,2022-07-09,479790,479791,2,1,,,False,False,False,False,False,63707,2201275.0,REAL,,57844,,101,28,20
+152,8576,,16,Bragantino,Avai,True,False,16:30:00,287760,2022-07-09,479789,479788,4,0,,,False,False,False,False,False,,45815.0,REAL,,3162,,101,4,11
+153,8577,,16,Corinthians,Flamengo,True,False,16:00:00,287761,2022-07-10,479807,479806,1,0,,,False,False,False,False,False,,3670673.0,REAL,,43708,,101,6,2
+154,8578,,16,Santos,Atletico-GO,True,False,18:00:00,287762,2022-07-10,479796,479797,1,0,,,False,False,False,False,False,,284207.0,REAL,,8588,,101,2,3
+155,8579,,16,Internacional,America-MG,True,False,20:00:00,287763,2022-07-11,479804,479805,1,0,,,False,False,False,False,False,,807628.0,REAL,,19023,,101,53,12
+156,8580,,16,Fortaleza,Palmeiras,True,False,18:00:00,287764,2022-07-10,479798,479799,0,0,,,True,False,False,False,False,,848958.0,REAL,,24888,,101,99,
+157,8581,,16,Goias,Athletico-PR,True,False,20:30:00,287765,2022-07-09,479792,479794,2,1,,,False,False,False,False,False,9044,125775.0,REAL,,7323,,101,177,32
+158,8582,,16,Cuiaba,Botafogo,True,False,19:00:00,287766,2022-07-10,479800,479802,2,0,,,False,False,False,False,False,14719,390775.0,REAL,,13720,,101,116,357
+159,8583,,16,Coritiba,Juventude,True,False,11:00:00,287767,2022-07-10,479801,479803,2,2,,,True,False,False,False,False,,324975.0,REAL,,20235,,101,111,
+160,8584,,17,America-MG,Bragantino,True,False,19:00:00,287778,2022-07-17,479884,479885,0,3,,,False,False,False,False,False,1920,34686.0,REAL,,1114,,101,39,11
+161,8585,,17,Flamengo,Coritiba,True,False,19:00:00,287779,2022-07-16,479866,479867,2,0,,,False,False,False,False,False,,2475461.0,REAL,,33778,,101,27,17
+162,8586,,17,Sao Paulo,Fluminense,True,False,16:00:00,287780,2022-07-17,479875,479878,2,2,,,True,False,False,False,False,,2331675.0,REAL,,47141,,101,16,
+163,8587,,17,Palmeiras,Cuiaba,True,False,20:00:00,287781,2022-07-18,479886,479887,1,0,,,False,False,False,False,False,,2103920.0,REAL,,39033,,101,11,5
+164,8588,,17,Botafogo,CAM,True,False,18:00:00,287782,2022-07-17,479880,479881,0,1,,,False,False,False,False,False,8678,240990.0,REAL,,8001,,101,31,15
+165,8589,,17,Juventude,Goias,True,False,11:00:00,287783,2022-07-17,479873,479877,0,0,,,True,False,False,False,False,4406,81460.0,REAL,,4046,,101,174,
+166,8590,,17,Ceara,Corinthians,True,False,21:00:00,287784,2022-07-16,479870,479871,3,1,,,False,False,False,False,False,28683,595252.0,REAL,,28647,,101,99,31
+167,8591,,17,Atletico-GO,Fortaleza,True,False,18:00:00,287785,2022-07-17,479882,479883,0,1,,,False,False,False,False,False,7262,72215.0,REAL,,6544,,101,113,69
+168,8592,,17,Avai,Santos,True,False,19:00:00,287786,2022-07-16,479868,479869,1,0,,,False,False,False,False,False,8674,305352.0,REAL,,8049,,101,100,36
+169,8593,,17,Athletico-PR,Internacional,True,False,16:30:00,287787,2022-07-16,479864,479865,0,0,,,True,False,False,False,False,,572030.0,REAL,,21402,,101,49,
+170,8594,,18,America-MG,Palmeiras,True,False,20:00:00,287818,2022-07-21,479958,479957,0,1,,,False,False,False,False,False,6462,183630.0,REAL,,4886,,101,39,5
+171,8595,,18,Flamengo,Juventude,True,False,20:30:00,287819,2022-07-20,479951,479952,4,0,,,False,False,False,False,False,,3642229.0,REAL,,65392,,101,27,17
+172,8596,,18,Bragantino,Fortaleza,True,False,19:00:00,287820,2022-07-20,479945,479946,2,1,,,False,False,False,False,False,,66995.0,REAL,,4048,,101,4,11
+173,8597,,18,Corinthians,Coritiba,True,False,21:30:00,287821,2022-07-20,479964,479965,3,1,,,False,False,False,False,False,,2535409.0,REAL,,39852,,101,6,2
+174,8598,,18,Santos,Botafogo,True,False,21:30:00,287822,2022-07-20,479962,479961,2,0,,,False,False,False,False,False,,287845.0,REAL,,8453,,101,2,3
+175,8599,,18,Internacional,Sao Paulo,True,False,20:30:00,287823,2022-07-20,479953,479954,3,3,,,True,False,False,False,False,,1577029.0,REAL,,32804,,101,53,
+176,8600,,18,Ceara,Avai,True,False,21:30:00,287824,2022-07-19,479955,479956,1,0,,,False,False,False,False,False,37567,322708.0,REAL,,37541,,101,99,31
+177,8601,,18,Goias,Fluminense,True,False,19:00:00,287825,2022-07-20,479947,479948,2,3,,,False,False,False,False,False,11974,255620.0,REAL,,9397,,101,177,20
+178,8602,,18,Cuiaba,CAM,True,False,19:00:00,287826,2022-07-21,479959,479960,1,1,,,True,False,False,False,False,18584,504545.0,REAL,,17671,,101,116,
+179,8603,,18,Athletico-PR,Atletico-GO,True,False,19:30:00,287827,2022-07-20,479949,479950,4,1,,,False,False,False,False,False,23174,411710.0,REAL,,22426,,101,49,44
+180,8604,,19,CAM,Corinthians,True,False,18:00:00,287828,2022-07-24,480017,480018,1,2,,,False,False,False,False,False,55706,2202875.0,REAL,,47613,,101,52,2
+181,8605,,19,Fluminense,Bragantino,True,False,16:00:00,287829,2022-07-24,480011,480012,2,1,,,False,False,False,False,False,9877,205830.0,REAL,,8827,,101,25,20
+182,8606,,19,Sao Paulo,Goias,True,False,19:00:00,287830,2022-07-23,480005,480006,3,3,,,True,False,False,False,False,,1761264.0,REAL,,39393,,101,16,
+183,8607,,19,Palmeiras,Internacional,True,False,16:00:00,287831,2022-07-24,480013,480014,2,1,,,False,False,False,False,False,,2282829.0,REAL,,38658,,101,11,5
+184,8608,,19,Botafogo,Athletico-PR,True,False,21:00:00,287832,2022-07-23,480007,480008,2,0,,,False,False,False,False,False,8105,203630.0,REAL,,7463,,101,31,18
+185,8609,,19,Juventude,Ceara,True,False,16:00:00,287833,2022-07-24,480015,480016,1,0,,,False,False,False,False,False,4445,99610.0,REAL,,3934,,101,174,492
+186,8610,,19,Fortaleza,Santos,True,False,19:00:00,287834,2022-07-24,480021,480022,0,0,,,True,False,False,False,False,,253878.0,REAL,,19902,,101,99,
+187,8611,,19,Atletico-GO,America-MG,True,False,18:00:00,287835,2022-07-24,480019,480020,0,1,,,False,False,False,False,False,5098,47425.0,REAL,,4451,,101,113,38
+188,8612,,19,Avai,Flamengo,True,False,11:00:00,287836,2022-07-24,480009,480010,1,2,,,False,False,False,False,False,17557,829281.0,REAL,,15933,,101,100,17
+189,8613,,19,Coritiba,Cuiaba,True,False,20:00:00,287837,2022-07-25,480023,480024,1,0,,,False,False,False,False,False,20082,271190.0,REAL,,19181,,101,111,40
+190,8614,,20,America-MG,Avai,True,False,18:00:00,287838,2022-07-31,480047,480048,3,1,,,False,False,False,False,False,2215,46962.0,REAL,,1470,,101,39,38
+191,8615,,20,Flamengo,Atletico-GO,True,False,20:30:00,287839,2022-07-30,480059,480060,4,1,,,False,False,False,False,False,64040,2470440.0,REAL,,59999,,101,28,17
+192,8616,,20,Bragantino,Juventude,True,False,19:00:00,287840,2022-07-31,480051,480052,1,0,,,False,False,False,False,False,,55125.0,REAL,,3236,,101,4,11
+193,8617,,20,Corinthians,Botafogo,True,False,19:00:00,287841,2022-07-30,480057,480058,1,0,,,False,False,False,False,False,,2860163.0,REAL,,42532,,101,6,2
+194,8618,,20,Santos,Fluminense,True,False,20:00:00,287842,2022-08-01,480053,480054,2,2,,,True,False,False,False,False,,372325.0,REAL,,11943,,101,2,
+195,8619,,20,Internacional,CAM,True,False,16:00:00,287843,2022-07-31,480061,480062,3,0,,,False,False,False,False,False,,2054144.0,REAL,,39451,,101,53,12
+196,8620,,20,Ceara,Palmeiras,True,False,16:30:00,287844,2022-07-30,480043,480044,1,2,,,False,False,False,False,False,40912,1051974.0,REAL,,40844,,101,99,5
+197,8621,,20,Goias,Coritiba,True,False,16:30:00,287845,2022-07-30,480055,480056,1,0,,,False,False,False,False,False,11267,169900.0,REAL,,9446,,101,177,32
+198,8622,,20,Cuiaba,Fortaleza,True,False,18:00:00,287846,2022-07-31,480049,480050,0,1,,,False,False,False,False,False,9567,206960.0,REAL,,8480,,101,116,69
+199,8623,,20,Athletico-PR,Sao Paulo,True,False,16:00:00,287847,2022-07-31,480045,480046,1,0,,,False,False,False,False,False,26492,840160.0,REAL,,25710,,101,49,44
+200,8624,,21,CAM,Athletico-PR,True,False,19:00:00,287848,2022-08-07,480122,480123,2,3,,,False,False,False,False,False,25119,823240.0,REAL,,19116,,101,52,44
+201,8625,,21,Fluminense,Cuiaba,True,False,16:00:00,287849,2022-08-07,480116,480117,1,0,,,False,False,False,False,False,46323,1317380.0,REAL,,43364,,101,28,20
+202,8626,,21,Sao Paulo,Flamengo,True,False,20:30:00,287850,2022-08-06,480135,480137,0,2,,,False,False,False,False,False,,2723851.0,REAL,,45217,,101,16,17
+203,8627,,21,Palmeiras,Goias,True,False,16:00:00,287851,2022-08-07,480118,480119,3,0,,,False,False,False,False,False,,2105530.0,REAL,,38801,,101,11,5
+204,8628,,21,Botafogo,Ceara,True,False,16:30:00,287852,2022-08-06,480126,480127,1,1,,,True,False,False,False,False,21657,578900.0,REAL,,19732,,101,31,
+205,8629,,21,Juventude,America-MG,True,False,16:30:00,287853,2022-08-06,480128,480129,0,1,,,False,False,False,False,False,3524,94320.0,REAL,,3135,,101,174,38
+206,8630,,21,Fortaleza,Internacional,True,False,18:00:00,287854,2022-08-07,480120,480121,3,0,,,False,False,False,False,False,,471760.0,REAL,,39253,,101,99,69
+207,8631,,21,Atletico-GO,Bragantino,True,False,19:00:00,287855,2022-08-06,480130,480131,2,1,,,False,False,False,False,False,5930,54310.0,REAL,,5085,,101,113,47
+208,8632,,21,Avai,Corinthians,True,False,19:00:00,287856,2022-08-06,480132,480133,1,1,,,True,False,False,False,False,12648,646575.0,REAL,,11423,,101,100,
+209,8633,,21,Coritiba,Santos,True,False,20:00:00,287857,2022-08-08,480124,480125,1,2,,,False,False,False,False,False,,412790.0,REAL,,22691,,101,111,3
+210,8634,,22,America-MG,Santos,True,False,18:00:00,287858,2022-08-14,480216,480217,1,0,,,False,False,False,False,False,2978,81019.0,REAL,,2204,,101,39,38
+211,8635,,22,Flamengo,Athletico-PR,True,False,16:00:00,287859,2022-08-14,480208,480209,5,0,,,False,False,False,False,False,62716,3319084.0,REAL,,59165,,101,28,17
+212,8636,,22,Sao Paulo,Bragantino,True,False,16:00:00,287860,2022-08-14,480212,480213,3,0,,,False,False,False,False,False,,1326973.0,REAL,,31358,,101,16,4
+213,8637,,22,Corinthians,Palmeiras,True,False,19:00:00,287861,2022-08-13,480201,480202,0,1,,,False,False,False,False,False,44966,3226090.0,REAL,,44666,,101,6,5
+214,8638,,22,Botafogo,Atletico-GO,True,False,21:00:00,287862,2022-08-13,480206,480210,0,0,,,True,False,False,False,False,12230,247445.0,REAL,,10550,,101,31,
+215,8639,,22,Internacional,Fluminense,True,False,19:00:00,287863,2022-08-14,480219,480220,3,0,,,False,False,False,False,False,,653069.0,REAL,,14824,,101,53,12
+216,8640,,22,Ceara,Fortaleza,True,False,16:00:00,287864,2022-08-14,480214,480215,0,1,,,False,False,False,False,False,33355,535204.0,REAL,,33315,,101,99,69
+217,8641,,22,Goias,Avai,True,False,16:30:00,287865,2022-08-13,480199,480200,1,1,,,True,False,False,False,False,10831,156845.0,REAL,,8934,,101,177,
+218,8642,,22,Cuiaba,Juventude,True,False,20:30:00,287866,2022-08-13,480203,480204,1,0,,,False,False,False,False,False,6909,151050.0,REAL,,6013,,101,116,357
+219,8643,,22,Coritiba,CAM,True,False,11:00:00,287867,2022-08-14,480211,480218,0,1,,,False,False,False,False,False,18938,344220.0,REAL,,17608,,101,111,15
+220,8644,,23,CAM,Goias,True,False,16:30:00,287868,2022-08-20,480299,480298,0,1,,,False,False,False,False,False,31650,989516.0,,,24981,,101,52,32
+221,8645,,23,Fluminense,Coritiba,True,False,19:00:00,287869,2022-08-20,480300,480301,5,2,,,False,False,False,False,False,24029,638185.0,REAL,,22331,,101,28,20
+222,8646,,23,Bragantino,Ceara,True,False,18:00:00,287870,2022-08-21,480306,480307,1,1,,,True,False,False,False,False,,46715.0,REAL,,2488,,101,4,
+223,8647,,23,Palmeiras,Flamengo,True,False,16:00:00,287871,2022-08-21,480305,480304,1,1,,,True,False,False,False,False,,4240007.0,REAL,,40485,,101,11,
+224,8648,,23,Santos,Sao Paulo,True,False,19:00:00,287872,2022-08-21,480308,480309,1,0,,,False,False,False,False,False,,419917.0,REAL,,12598,,101,2,3
+225,8649,,23,Juventude,Botafogo,True,False,11:00:00,287873,2022-08-21,480303,480302,2,2,,,True,False,False,False,False,3095,97495.0,,,2769,,101,174,
+226,8650,,23,Fortaleza,Corinthians,True,False,18:00:00,287874,2022-08-21,480310,480311,1,0,,,False,False,False,False,False,,968853.0,,,44338,,101,99,69
+227,8651,,23,Atletico-GO,Cuiaba,True,False,18:00:00,287875,2022-08-21,480312,480313,1,1,,,True,False,False,False,False,4578,40065.0,REAL,,3873,,101,113,
+228,8652,,23,Avai,Internacional,True,False,20:00:00,287876,2022-08-22,480316,480317,0,1,,,False,False,False,False,False,13911,616997.0,,,12666,,101,100,12
+229,8653,,23,Athletico-PR,America-MG,True,False,18:00:00,287877,2022-08-21,480314,480315,1,1,,,True,False,False,False,False,15796,311735.0,REAL,,15023,,101,49,
+230,8654,,24,America-MG,CAM,True,False,16:00:00,287878,2022-08-28,480380,480382,1,1,,,True,False,False,False,False,7016,286805.0,,,5341,,101,39,
+231,8655,,24,Fluminense,Palmeiras,True,False,19:00:00,287879,2022-08-27,480377,480378,1,1,,,True,False,False,False,False,45084,1352610.0,,,42278,,101,28,
+232,8656,,24,Sao Paulo,Fortaleza,True,False,16:00:00,287880,2022-08-28,480384,480385,0,1,,,False,False,False,False,False,,1251388.0,,,30210,,101,16,69
+233,8657,,24,Corinthians,Bragantino,True,False,21:30:00,287881,2022-08-29,480381,480383,1,0,,,False,False,False,False,False,,2050950.0,,,36228,,101,6,2
+234,8658,,24,Botafogo,Flamengo,True,False,18:00:00,287882,2022-08-28,480387,480389,0,1,,,False,False,False,False,False,14442,486270.0,,,12876,,101,31,17
+235,8659,,24,Internacional,Juventude,True,False,20:00:00,287883,2022-08-29,480392,480393,4,0,,,False,False,False,False,False,,711517.0,,,16518,,101,53,12
+236,8660,,24,Ceara,Athletico-PR,True,False,21:00:00,287884,2022-08-27,480386,480388,0,0,,,True,False,False,False,False,16754,104501.0,,,16731,,101,99,
+237,8661,,24,Goias,Atletico-GO,True,False,16:30:00,287885,2022-08-27,478156,478157,2,1,,,False,False,False,False,False,13781,228820.0,,,12370,,101,177,32
+238,8662,,24,Cuiaba,Santos,True,False,18:00:00,287886,2022-08-28,480390,480391,0,0,,,True,False,False,False,False,19136,599135.0,,,18175,,101,116,
+239,8663,,24,Coritiba,Avai,True,False,16:30:00,287887,2022-08-27,480375,480376,1,0,,,False,False,False,False,False,,312690.0,,,17597,,101,111,40
+240,8664,,25,America-MG,Coritiba,True,False,20:30:00,287518,2022-09-03,480456,480457,2,0,,,False,False,False,False,False,2840,29235.0,,,1875,,101,39,38
+241,8665,,25,Flamengo,Ceara,True,False,11:00:00,287519,2022-09-04,480458,480459,1,1,,,True,False,False,False,False,64387,3442960.0,,,59612,,101,28,
+242,8666,,25,Bragantino,Palmeiras,True,False,19:00:00,287520,2022-09-03,480452,480453,2,2,,,True,False,False,False,False,,403640.0,,,9685,,101,4,
+243,8667,,25,Corinthians,Internacional,True,False,16:00:00,287521,2022-09-04,480460,480461,2,2,,,True,False,False,False,False,41748,2613444.0,,,41423,,101,6,
+244,8668,,25,Santos,Goias,True,False,20:00:00,287522,2022-09-05,480468,480469,1,2,,,False,False,False,False,False,,417035.0,,,11497,,101,2,32
+245,8669,,25,Juventude,Avai,True,False,16:30:00,287523,2022-09-03,480450,480451,1,1,,,True,False,False,False,False,2708,71235.0,,,2128,,101,174,
+246,8670,,25,Fortaleza,Botafogo,True,False,16:00:00,287524,2022-09-04,480462,480463,1,3,,,False,False,False,False,False,,1065090.0,,,54505,,101,99,18
+247,8671,,25,Atletico-GO,CAM,True,False,18:00:00,287525,2022-09-04,480464,480465,0,2,,,False,False,False,False,False,7083,133115.0,,,6301,,101,113,15
+248,8672,,25,Cuiaba,Sao Paulo,True,False,19:00:00,287526,2022-09-04,480466,480467,1,1,,,True,False,False,False,False,33050,1450190.0,,,31625,,101,116,
+249,8673,,25,Athletico-PR,Fluminense,True,False,19:00:00,287527,2022-09-03,480454,480455,1,0,,,False,False,False,False,False,,492220.0,,,14037,,101,49,44
+250,8674,,26,CAM,Bragantino,True,False,17:00:00,287538,2022-09-07,480633,480631,1,1,,,True,False,False,False,False,34941,1178714.0,,,29785,,101,52,
+251,8675,,26,Fluminense,Fortaleza,True,False,19:00:00,287539,2022-09-10,480562,480563,2,1,,,False,False,False,False,False,26533,688010.0,,,24587,,101,28,20
+252,8676,,26,Sao Paulo,Corinthians,True,False,16:00:00,287540,2022-09-11,480552,480553,1,1,,,True,False,False,False,False,,2291454.0,,,46444,,101,16,
+253,8677,,26,Palmeiras,Juventude,True,False,21:00:00,287541,2022-09-10,480564,480565,2,1,,,False,False,False,False,False,,2251971.0,,,39337,,101,11,5
+254,8678,,26,Botafogo,America-MG,True,False,11:00:00,287542,2022-09-11,480548,480549,0,0,,,True,False,False,False,False,32286,822954.0,,,28387,,101,31,
+255,8679,,26,Internacional,Cuiaba,True,False,16:30:00,287543,2022-09-10,480558,480559,1,0,,,False,False,False,False,False,,1424511.0,,,30719,,101,53,12
+256,8680,,26,Ceara,Santos,True,False,16:30:00,287544,2022-09-10,480560,480561,2,1,,,False,False,False,False,False,38339,354259.0,,,38302,,101,99,31
+257,8681,,26,Goias,Flamengo,True,False,19:00:00,287545,2022-09-11,480556,480557,1,1,,,True,False,False,False,False,13798,731500.0,,,11584,,101,177,
+258,8682,,26,Avai,Athletico-PR,True,False,11:00:00,287546,2022-09-11,480550,480551,1,1,,,True,False,False,False,False,9487,257890.0,,,8228,,101,100,
+259,8683,,26,Coritiba,Atletico-GO,True,False,16:00:00,287547,2022-09-11,480554,480555,2,0,,,False,False,False,False,False,,186825.0,,,15046,,101,111,40
+260,8684,,27,America-MG,Corinthians,True,False,18:00:00,287548,2022-09-18,480662,480663,1,0,,,False,False,False,False,False,6416,280144.0,,,4597,,101,39,38
+261,8685,,27,Flamengo,Fluminense,True,False,16:00:00,287549,2022-09-18,480661,480672,1,2,,,False,False,False,False,False,55170,2720364.0,,,51304,,101,28,20
+262,8686,,27,Bragantino,Goias,True,False,11:00:00,287550,2022-09-18,480660,480659,1,1,,,True,False,False,False,False,,74620.0,,,3984,,101,4,
+263,8687,,27,Palmeiras,Santos,True,False,18:30:00,287551,2022-09-18,480666,480667,1,0,,,False,False,False,False,False,,2450421.0,,,40337,,101,11,5
+264,8688,,27,Botafogo,Coritiba,True,False,19:00:00,287552,2022-09-17,480657,480658,2,0,,,False,False,False,False,False,15080,384655.0,,,13419,,101,31,18
+265,8689,,27,Juventude,Fortaleza,True,False,18:00:00,287553,2022-09-18,480664,480665,1,1,,,True,False,False,False,False,2144,50965.0,,,1501,,101,174,
+266,8690,,27,Ceara,Sao Paulo,True,False,16:00:00,287554,2022-09-18,480673,480674,0,2,,,False,False,False,False,False,43000,621026.0,,,42968,,101,99,4
+267,8691,,27,Atletico-GO,Internacional,True,False,20:00:00,287555,2022-09-19,480670,480671,1,2,,,False,False,False,False,False,5185,93725.0,,,4485,,101,113,12
+268,8692,,27,Avai,CAM,True,False,16:30:00,287556,2022-09-17,480655,480656,1,0,,,False,False,False,False,False,10816,248200.0,,,9490,,101,100,36
+269,8693,,27,Athletico-PR,Cuiaba,True,False,19:00:00,287557,2022-09-18,480668,480669,2,2,,,True,False,False,False,False,17340,327445.0,,,16524,,101,49,
+270,8694,,28,CAM,Palmeiras,True,False,21:45:00,287558,2022-09-28,480739,480740,0,1,,,False,False,False,False,False,28644,949422.0,,,22661,,101,52,5
+271,8695,,28,Fluminense,Juventude,True,False,19:00:00,287569,2022-09-28,480748,480747,4,0,,,False,False,False,False,False,23396,618407.0,,,22013,,101,28,20
+272,8696,,28,Sao Paulo,Avai,True,False,20:00:00,287570,2022-09-25,480883,480884,4,0,,,False,False,False,False,False,,1499659.0,,,36510,,101,16,4
+273,8697,,28,Corinthians,Atletico-GO,True,False,19:00:00,287571,2022-09-28,480749,480750,2,1,,,False,False,False,False,False,,1624476.0,,,32146,,101,6,2
+274,8698,,28,Santos,Athletico-PR,True,False,21:00:00,287572,2022-09-27,480741,480746,2,0,,,False,False,False,False,False,,272547.0,,,7464,,101,2,3
+275,8699,,28,Internacional,Bragantino,True,False,21:45:00,287573,2022-09-28,480742,480743,0,0,,,True,False,False,False,False,,750267.0,,,17943,,101,53,
+276,8700,,28,Fortaleza,Flamengo,True,False,19:00:00,287574,2022-09-28,480751,480752,3,2,,,False,False,False,False,False,,2378774.0,,,46299,,101,99,69
+277,8701,,28,Goias,Botafogo,True,False,21:45:00,287575,2022-09-28,480744,480745,0,1,,,False,False,False,False,False,10773,274900.0,,,8980,,101,177,18
+278,8702,,28,Cuiaba,America-MG,True,False,21:00:00,287576,2022-09-28,480737,480738,2,1,,,False,False,False,False,False,3364,74225.0,,,3262,,101,116,357
+279,8703,,28,Coritiba,Ceara,True,False,19:00:00,287577,2022-09-28,480735,480736,1,0,,,False,False,False,False,False,,167045.0,,,13376,,101,111,40
+280,8704,,29,CAM,Fluminense,True,False,15:00:00,287588,2022-10-01,480910,480913,2,0,,,False,False,False,False,False,20858,649266.0,,,14606,,101,52,15
+281,8705,,29,Flamengo,Bragantino,True,False,19:00:00,287589,2022-10-01,480926,480927,4,1,,,False,False,False,False,False,46698,2079219.0,,,44558,,101,28,17
+282,8706,,29,Sao Paulo,Coritiba,True,False,20:00:00,287590,2022-10-20,481335,481336,3,1,,,False,False,False,False,False,,589522.0,,,14993,,101,16,4
+283,8707,,29,Corinthians,Cuiaba,True,False,21:00:00,287591,2022-10-01,480920,480922,2,0,,,False,False,False,False,False,37681,2049251.0,,,37445,,101,6,2
+284,8708,,29,Botafogo,Palmeiras,True,False,20:00:00,287592,2022-10-03,480924,480925,1,3,,,False,False,False,False,False,16545,496271.0,,,15171,,101,31,5
+285,8709,,29,Internacional,Santos,True,False,15:00:00,287593,2022-10-01,480916,480918,1,0,,,False,False,False,False,False,,1508925.0,,,30858,,101,53,12
+286,8710,,29,Ceara,America-MG,True,False,15:00:00,287594,2022-10-01,480921,480923,1,2,,,False,False,False,False,False,13976,90690.0,,,13954,,101,99,38
+287,8711,,29,Goias,Fortaleza,True,False,19:00:00,287595,2022-10-01,480911,480912,0,1,,,False,False,False,False,False,9898,196290.0,,,8164,,101,177,69
+288,8712,,29,Avai,Atletico-GO,True,False,19:00:00,287596,2022-10-01,480914,480915,1,2,,,False,False,False,False,False,8062,171638.0,,,7140,,101,100,47
+289,8713,,29,Athletico-PR,Juventude,True,False,19:00:00,287597,2022-10-01,480917,480919,2,0,,,False,False,False,False,False,14403,254360.0,,,13625,,101,49,44
+290,8714,,30,America-MG,Sao Paulo,True,False,20:00:00,287598,2022-10-06,480985,480986,1,2,,,False,False,False,False,False,3916,73438.0,,,2438,,101,39,4
+291,8715,,30,Flamengo,Internacional,True,False,21:30:00,287599,2022-10-05,480977,480978,0,0,,,True,False,False,False,False,43710,1883571.0,,,41279,,101,28,
+292,8716,,30,Bragantino,Cuiaba,True,False,19:00:00,287600,2022-10-05,480987,480988,2,1,,,False,False,False,False,False,,45100.0,,,2704,,101,4,11
+293,8717,,30,Palmeiras,Coritiba,True,False,19:00:00,287601,2022-10-06,480981,480982,4,0,,,False,False,False,False,False,,2404137.0,,,39877,,101,11,5
+294,8718,,30,Santos,CAM,True,False,21:30:00,287602,2022-10-05,480979,480980,1,2,,,False,False,False,False,False,,341792.0,,,9278,,101,2,15
+295,8719,,30,Juventude,Corinthians,True,False,21:30:00,287603,2022-10-04,481019,481020,2,2,,,True,False,False,False,False,3159,111610.0,,,2726,,101,174,
+296,8720,,30,Ceara,Goias,True,False,19:00:00,287604,2022-10-05,480989,480990,1,1,,,True,False,False,False,False,16702,96000.0,,,16690,,101,99,
+297,8721,,30,Atletico-GO,Fluminense,True,False,19:00:00,287605,2022-10-05,480992,480991,3,2,,,False,False,False,False,False,6075,128010.0,,,5396,,101,113,47
+298,8722,,30,Avai,Botafogo,True,False,20:00:00,287606,2022-10-06,480983,480984,1,2,,,False,False,False,False,False,6097,209806.0,,,5601,,101,100,18
+299,8723,,30,Athletico-PR,Fortaleza,True,False,19:30:00,287607,2022-10-05,480993,480994,1,1,,,True,False,False,False,False,16441,262345.0,,,15646,,101,49,
+300,8724,,31,CAM,Ceara,True,False,18:00:00,287608,2022-10-09,481077,481078,0,0,,,True,False,False,False,False,34718,964204.0,,,28072,,101,52,
+301,8725,,31,Fluminense,America-MG,True,False,18:00:00,287609,2022-10-09,481079,481080,0,2,,,False,False,False,False,False,23324,630095.0,,,21623,,101,28,38
+302,8726,,31,Sao Paulo,Botafogo,True,False,16:00:00,287610,2022-10-09,481066,481070,0,1,,,False,False,False,False,False,,1116070.0,,,23918,,101,16,18
+303,8727,,31,Corinthians,Athletico-PR,True,False,21:00:00,287611,2022-10-08,481049,481063,2,1,,,False,False,False,False,False,,2037096.0,,,38403,,101,6,2
+304,8728,,31,Santos,Juventude,True,False,20:00:00,287612,2022-10-10,481087,481088,4,1,,,False,False,False,False,False,,360712.0,,,9171,,101,2,3
+305,8729,,31,Internacional,Goias,True,False,11:00:00,287613,2022-10-09,481064,481065,4,2,,,False,False,False,False,False,,1488966.0,,,31554,,101,53,12
+306,8730,,31,Fortaleza,Avai,True,False,16:00:00,287614,2022-10-09,481073,481074,2,0,,,False,False,False,False,False,,582992.0,,,40968,,101,99,69
+307,8731,,31,Atletico-GO,Palmeiras,True,False,18:30:00,287615,2022-10-10,481085,481086,1,1,,,True,False,False,False,False,12089,805320.0,,,10566,,101,113,
+308,8732,,31,Cuiaba,Flamengo,True,False,19:00:00,287616,2022-10-08,481060,481061,1,2,,,False,False,False,False,False,40059,3344285.0,,,36315,,101,116,17
+309,8733,,31,Coritiba,Bragantino,True,False,18:00:00,287617,2022-10-09,481081,481082,2,1,,,False,False,False,False,False,,232395.0,,,16977,,101,111,40
+310,8734,,32,America-MG,Fortaleza,True,False,20:30:00,287618,2022-10-15,481104,481105,1,2,,,False,False,False,False,False,2863,38349.0,,,1885,,101,39,69
+311,8735,,32,Flamengo,CAM,True,False,20:30:00,287619,2022-10-15,481106,481107,1,0,,,False,False,False,False,False,51179,2479344.0,,,48966,,101,28,17
+312,8736,,32,Bragantino,Santos,True,False,20:00:00,287620,2022-10-17,481122,481123,0,2,,,False,False,False,False,False,,243900.0,,,6705,,101,4,3
+313,8737,,32,Palmeiras,Sao Paulo,True,False,16:00:00,287621,2022-10-16,481108,481109,0,0,,,True,False,False,False,False,,3029619.0,,,40795,,101,11,
+314,8738,,32,Botafogo,Internacional,True,False,18:00:00,287622,2022-10-16,481114,481115,0,1,,,False,False,False,False,False,24445,684510.0,,,22155,,101,31,12
+315,8739,,32,Juventude,Atletico-GO,True,False,18:00:00,287623,2022-10-16,481116,481117,1,1,,,True,False,False,False,False,1489,42310.0,,,1242,,101,174,
+316,8740,,32,Ceara,Cuiaba,True,False,16:00:00,287624,2022-10-16,481110,481111,1,1,,,True,False,False,False,False,41242,333954.0,,,41205,,101,99,
+317,8741,,32,Goias,Corinthians,True,False,19:30:00,287625,2022-10-29,481101,481102,0,0,,,True,False,False,False,False,9497,224365.0,,,7721,,101,177,
+318,8742,,32,Avai,Fluminense,True,False,19:00:00,287626,2022-10-16,481118,481119,0,3,,,False,False,False,False,False,,,,,,,101,100,20
+319,8743,,32,Athletico-PR,Coritiba,True,False,19:00:00,287627,2022-10-16,481120,481121,1,0,,,False,False,False,False,False,29599,760770.0,,,28954,,101,49,44
+320,8744,,33,America-MG,Flamengo,True,False,19:00:00,287638,2022-10-22,481239,481240,1,2,,,False,False,False,False,False,9626,502478.0,,,6730,,101,39,17
+321,8745,,33,Fluminense,Botafogo,True,False,16:00:00,287639,2022-10-23,481245,481246,2,2,,,True,False,False,False,False,36033,975810.0,,,33105,,101,28,
+322,8746,,33,Bragantino,Athletico-PR,True,False,16:30:00,287640,2022-10-22,481237,481238,4,2,,,False,False,False,False,False,,71965.0,,,3011,,101,4,11
+323,8747,,33,Palmeiras,Avai,True,False,21:00:00,287641,2022-10-22,481243,481244,3,0,,,False,False,False,False,False,,3096147.0,,,40044,,101,11,5
+324,8748,,33,Santos,Corinthians,True,False,19:00:00,287642,2022-10-22,481241,481242,0,1,,,False,False,False,False,False,,552532.0,,,12872,,101,2,2
+325,8749,,33,Juventude,Sao Paulo,True,False,16:00:00,287643,2022-10-23,481226,481227,1,2,,,False,False,False,False,False,3204,108775.0,,,2906,,101,174,4
+326,8750,,33,Fortaleza,CAM,True,False,20:00:00,287644,2022-10-24,481235,481236,0,0,,,True,False,False,False,False,,732622.0,,,43660,,101,99,
+327,8751,,33,Atletico-GO,Ceara,True,False,18:00:00,287645,2022-10-23,481228,481229,1,0,,,False,False,False,False,False,10166,58810.0,,,9275,,101,113,47
+328,8752,,33,Cuiaba,Goias,True,False,18:00:00,287646,2022-10-23,481231,481232,1,2,,,False,False,False,False,False,8871,165970.0,,,7830,,101,116,32
+329,8753,,33,Coritiba,Internacional,True,False,18:00:00,287647,2022-10-23,481233,481234,1,1,,,True,False,False,False,False,18485,376345.0,,,17262,,101,111,
+330,8754,,34,CAM,Juventude,True,False,19:30:00,287648,2022-10-27,481358,481359,1,0,,,False,False,False,False,False,18298,454977.0,,,12133,,101,52,15
+331,8755,,34,Flamengo,Santos,True,False,21:45:00,287649,2022-10-25,481421,481422,3,2,,,False,False,False,False,False,44679,1597301.0,,,42527,,101,28,17
+332,8756,,34,Sao Paulo,Atletico-GO,True,False,19:00:00,287650,2022-10-27,481349,481351,2,1,,,False,False,False,False,False,,713730.0,,,17598,,101,16,4
+333,8757,,34,Corinthians,Fluminense,True,False,21:45:00,287651,2022-10-26,481363,481364,0,2,,,False,False,False,False,False,,1877924.0,,,37617,,101,6,20
+334,8758,,34,Botafogo,Bragantino,True,False,19:30:00,287652,2022-10-26,481361,481362,2,1,,,False,False,False,False,False,11093,269673.0,,,9984,,101,31,18
+335,8759,,34,Internacional,Ceara,True,False,21:45:00,287653,2022-10-26,481365,481366,2,1,,,False,False,False,False,False,,518310.0,,,11988,,101,53,12
+336,8760,,34,Fortaleza,Coritiba,True,False,19:00:00,287654,2022-10-27,481353,481354,3,1,,,False,False,False,False,False,,230493.0,,,22341,,101,99,69
+337,8761,,34,Goias,America-MG,True,False,21:45:00,287655,2022-10-26,481367,481368,2,2,,,True,False,False,False,False,7274,88760.0,,,5778,,101,177,
+338,8762,,34,Cuiaba,Avai,True,False,20:00:00,287656,2022-10-27,481355,481356,1,0,,,False,False,False,False,False,4680,76450.0,,,3781,,101,116,357
+339,8763,,34,Athletico-PR,Palmeiras,True,False,21:45:00,287657,2022-10-25,481424,481423,1,3,,,False,False,False,False,False,20502,1037350.0,,,19621,,101,49,5
+340,8764,,35,America-MG,Internacional,True,False,16:00:00,287668,2022-11-02,481440,481441,1,0,,,False,False,False,False,False,3474,29270.0,,,2088,,101,39,38
+341,8765,,35,Flamengo,Corinthians,True,False,21:30:00,287669,2022-11-02,481453,481454,1,2,,,False,False,False,False,False,60369,2358262.0,,,57906,,101,28,2
+342,8766,,35,Sao Paulo,CAM,True,False,21:30:00,287670,2022-11-01,481438,481439,2,2,,,True,False,False,False,False,,1066087.0,,,23835,,101,16,
+343,8767,,35,Palmeiras,Fortaleza,True,False,21:30:00,287671,2022-11-02,481442,481443,4,0,,,False,False,False,False,False,,3675070.0,,,29104,,101,11,5
+344,8768,,35,Botafogo,Cuiaba,True,False,19:00:00,287672,2022-11-01,481434,481435,0,2,,,False,False,False,False,False,16365,425478.0,,,14892,,101,31,357
+345,8769,,35,Juventude,Coritiba,True,False,19:00:00,287673,2022-11-02,481447,481448,0,1,,,False,False,False,False,False,3412,127125.0,,,3030,,101,174,40
+346,8770,,35,Ceara,Fluminense,True,False,20:00:00,287674,2022-10-31,481515,481516,0,1,,,False,False,False,False,False,,,,,,,101,99,20
+347,8771,,35,Atletico-GO,Santos,True,False,19:00:00,287675,2022-11-02,481449,481450,2,3,,,False,False,False,False,False,9090,173060.0,,,8222,,101,113,3
+348,8772,,35,Avai,Bragantino,True,False,19:00:00,287676,2022-11-02,481451,481452,1,2,,,False,False,False,False,False,3022,57095.0,,,2564,,101,100,11
+349,8773,,35,Athletico-PR,Goias,True,False,16:00:00,287677,2022-11-02,481444,481446,3,2,,,False,False,False,False,False,13664,245445.0,,,12864,,101,49,44
+350,8774,,36,CAM,Botafogo,True,False,20:00:00,287708,2022-11-07,481551,481547,0,2,,,False,False,False,False,False,31160,884670.0,,,24748,,101,52,18
+351,8775,,36,Fluminense,Sao Paulo,True,False,16:30:00,287709,2022-11-05,481525,481526,3,1,,,False,False,False,False,False,41558,1121292.0,,,38839,,101,28,20
+352,8776,,36,Bragantino,America-MG,True,False,19:00:00,287710,2022-11-05,481529,481530,1,4,,,False,False,False,False,False,,50960.0,,,2722,,101,4,38
+353,8777,,36,Corinthians,Ceara,True,False,20:30:00,287711,2022-11-05,481533,481534,1,0,,,False,False,False,False,False,41355,2208811.0,,,41172,,101,6,2
+354,8778,,36,Santos,Avai,True,False,16:30:00,287712,2022-11-05,481527,481528,1,1,,,True,False,False,False,False,,826345.0,,,18686,,101,10,
+355,8779,,36,Internacional,Athletico-PR,True,False,21:00:00,287713,2022-11-05,481538,481539,2,0,,,False,False,False,False,False,,568458.0,,,12275,,101,53,12
+356,8780,,36,Fortaleza,Atletico-GO,True,False,16:00:00,287714,2022-11-06,481544,481545,1,1,,,True,False,False,False,False,,785557.0,,,44810,,101,99,
+357,8781,,36,Goias,Juventude,True,False,19:00:00,287715,2022-11-05,481531,481532,1,0,,,False,False,False,False,False,10480,83080.0,,,8887,,101,177,32
+358,8782,,36,Cuiaba,Palmeiras,True,False,18:30:00,287716,2022-11-06,481541,481542,1,1,,,True,False,False,False,False,22448,1905805.0,,,21230,,101,116,
+359,8783,,36,Coritiba,Flamengo,True,False,16:00:00,287717,2022-11-06,481543,481546,1,0,,,False,False,False,False,False,33304,862850.0,,,32021,,101,111,40
+360,8784,,37,CAM,Cuiaba,True,False,20:00:00,287738,2022-11-10,481600,481601,3,0,,,False,False,False,False,False,,738280.0,,,28824,,101,52,15
+361,8785,,37,Fluminense,Goias,True,False,19:00:00,287739,2022-11-09,481586,481587,3,0,,,False,False,False,False,False,35410,905535.0,,,33172,,101,28,20
+362,8786,,37,Sao Paulo,Internacional,True,False,21:30:00,287740,2022-11-08,481583,481584,0,1,,,False,False,False,False,False,,851853.0,,,19692,,101,16,12
+363,8787,,37,Palmeiras,America-MG,True,False,21:30:00,287741,2022-11-09,481596,481597,2,1,,,False,False,False,False,False,,2025717.0,,,28721,,101,11,5
+364,8788,,37,Botafogo,Santos,True,False,20:00:00,287742,2022-11-10,481602,481603,3,0,,,False,False,False,False,False,28130,660831.0,,,26305,,101,31,18
+365,8789,,37,Juventude,Flamengo,True,False,21:30:00,287743,2022-11-09,481598,481599,2,2,,,True,False,False,False,False,5231,103780.0,,,2582,,101,174,
+366,8790,,37,Fortaleza,Bragantino,True,False,20:30:00,287744,2022-11-09,481592,481593,6,0,,,False,False,False,False,False,,404954.0,,,38268,,101,99,69
+367,8791,,37,Atletico-GO,Athletico-PR,True,False,21:30:00,287745,2022-11-09,481594,481595,1,1,,,True,False,False,False,False,4185,37715.0,,,3485,,101,113,
+368,8792,,37,Avai,Ceara,True,False,19:00:00,287746,2022-11-09,481588,481589,2,0,,,False,False,False,False,False,,36990.0,,,2025,,101,100,36
+369,8793,,37,Coritiba,Corinthians,True,False,19:00:00,287747,2022-11-09,481591,481590,2,2,,,True,False,False,False,False,30049,750625.0,,,28819,,101,111,
+370,8794,,38,America-MG,Atletico-GO,True,False,16:00:00,287788,2022-11-13,481645,481646,,,,,False,False,False,False,False,,,,,,,101,39,
+371,8795,,38,Flamengo,Avai,True,False,16:00:00,287789,2022-11-12,481689,481690,1,2,,,False,False,False,False,False,63077,2276626.0,,,60064,,101,28,36
+372,8796,,38,Bragantino,Fluminense,True,False,16:00:00,287790,2022-11-13,481649,481650,,,,,False,False,False,False,False,,,,,,,101,4,
+373,8797,,38,Corinthians,CAM,True,False,16:00:00,287791,2022-11-13,481652,481653,,,,,False,False,False,False,False,,,,,,,101,6,
+374,8798,,38,Santos,Fortaleza,True,False,16:00:00,287792,2022-11-13,481658,481659,,,,,False,False,False,False,False,,,,,,,101,2,
+375,8799,,38,Internacional,Palmeiras,True,False,16:00:00,287793,2022-11-13,481660,481661,,,,,False,False,False,False,False,,,,,,,101,53,
+376,8800,,38,Ceara,Juventude,True,False,16:00:00,287794,2022-11-13,481655,481656,,,,,False,False,False,False,False,,,,,,,101,99,
+377,8801,,38,Goias,Sao Paulo,True,False,16:00:00,287795,2022-11-13,481654,481651,,,,,False,False,False,False,False,,,,,,,101,177,
+378,8802,,38,Cuiaba,Coritiba,True,False,16:00:00,287796,2022-11-13,481662,481657,,,,,False,False,False,False,False,,,,,,,101,116,
+379,8803,,38,Athletico-PR,Botafogo,True,False,16:00:00,287797,2022-11-13,481664,481663,,,,,False,False,False,False,False,,,,,,,101,49,
